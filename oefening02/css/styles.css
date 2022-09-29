@@ -1,0 +1,25 @@
+div.gallery {
+    margin: 5px;
+    border: 5px solid rgba(123, 7, 117, 0.5);
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 5px solid pink;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  .bg-gradient{
+    height: 100vh;
+    width: auto;
+    background-image: linear-gradient(purple,violet);
+  }
